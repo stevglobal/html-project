@@ -1,7 +1,4 @@
-✅ Updated README.md for HTML Project
-- GitHub for remote hosting
-
-> No CSS or JavaScript included — this is a pure# My First HTML Project
+This is  My First HTML Project
 
 Welcome to my first web project, built entirely using **HTML**. This is a beginner-friendly static web page designed to showcase the foundational structure of a website using semantic HTML tags.
 
